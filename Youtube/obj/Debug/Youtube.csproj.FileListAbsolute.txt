@@ -1,0 +1,8 @@
+C:\Users\Root\Documents\Visual Studio 2005\Projects\Youtube\Youtube\obj\Debug\Youtube.exe
+C:\Users\Root\Documents\Visual Studio 2005\Projects\Youtube\Youtube\obj\Debug\Youtube.pdb
+C:\Users\Root\Documents\Visual Studio 2005\Projects\Youtube\Youtube\bin\Debug\Youtube.exe
+C:\Users\Root\Documents\Visual Studio 2005\Projects\Youtube\Youtube\bin\Debug\Youtube.pdb
+C:\Users\Root\Documents\Visual Studio 2005\Projects\Youtube\Youtube\obj\Debug\Youtube.csprojResolveAssemblyReference.cache
+C:\Users\Root\Documents\Visual Studio 2005\Projects\Youtube\Youtube\obj\Debug\Youtube.Form1.resources
+C:\Users\Root\Documents\Visual Studio 2005\Projects\Youtube\Youtube\obj\Debug\Youtube.Properties.Resources.resources
+C:\Users\Root\Documents\Visual Studio 2005\Projects\Youtube\Youtube\obj\Debug\Youtube.csproj.GenerateResource.Cache
